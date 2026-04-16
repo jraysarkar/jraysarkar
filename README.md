@@ -1,22 +1,22 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d1117,50:161b22,100:1a1b4b&text=JAYDEEP%20ROY%20SARKAR&fontSize=45&fontColor=58A6FF&fontAlignY=35&desc=Engineering%20Leader%20%E2%80%A2%20SaaS%20Builder%20%E2%80%A2%20Solopreneur&descSize=18&descColor=8B949E&descAlignY=55&animation=fadeIn" width="100%" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=435&height=45&lines=SaaS+Builder.;Engineering+Leader.;Solopreneur.;Cybersecurity+Expert." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%E2%9A%A1+Cybersecurity+Products;%F0%9F%8E%AF+Cyber+Range+Platforms;%F0%9F%9A%80+Multi-Tenant+SaaS;%F0%9F%92%BC+Leading+a+Team+of+7+Engineers;%F0%9F%94%A5+Building+in+Public" alt="Typing SVG" />
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=14&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&repeat=true&width=450&height=25&lines=Dev+Manager+%40+Whizhack+Technologies+%7C+Team+of+7;Cyber+Range+%C2%B7+Security+Products+%C2%B7+SaaS+Platforms;If+it+can+be+built%2C+I've+probably+built+it." alt="Subtitle" />
-
-<br/><br/>
 
 <a href="https://linkedin.com/in/jraysarkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="https://github.com/jraysarkar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
 <a href="mailto:jraysarkar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<br/><br/>
+</div>
 
+<br/>
+
+<div align="center">
 <img src="https://github-stats-alpha.vercel.app/api?username=jraysarkar&cc=0d1117&tc=58A6FF&ic=8B949E&bc=0d1117" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=jraysarkar&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" />
-
 </div>
 
 ---
@@ -116,12 +116,14 @@ Multi-tenant architecture, subdomain routing, RBAC, billing, white-label
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=3000&pause=5000&color=8B949E&center=true&vCenter=true&repeat=true&width=420&height=20&lines=%22Ship+first.+Optimize+later.+Perfection+kills+products.%22" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=3000&pause=5000&color=8B949E&center=true&vCenter=true&repeat=true&width=450&height=20&lines=%22Ship+first.+Optimize+later.+Perfection+kills+products.%22" />
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=jraysarkar&color=58A6FF&style=flat-square&label=Profile+Views" />
 
-<br/><br/>
-
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:161b22,100:1a1b4b&section=footer" width="100%" />
