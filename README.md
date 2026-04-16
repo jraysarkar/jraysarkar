@@ -1,70 +1,123 @@
 <div align="center">
 
-# Jaydeep Roy Sarkar
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Engineering+Leader+%7C+SaaS+Builder+%7C+Solopreneur;From+Cybersecurity+to+SaaS+%E2%80%94+I+Build+It+All" alt="Typing SVG" />
 
-**Engineering Leader. SaaS Builder. Solopreneur.**
+<br/>
 
-I build products from zero to production — cybersecurity platforms, SaaS applications, and everything in between.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Software+Development+Manager+%40+Whizhack+Technologies;Leading+7+engineers+across+cybersecurity+%26+SaaS;Building+products+from+zero+to+production" alt="Subtitle" />
 
-[![LinkedIn](https://img.shields.io/badge/-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jraysarkar)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/jraysarkar)
+<br/><br/>
+
+<a href="https://linkedin.com/in/jraysarkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/jraysarkar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+<a href="mailto:jraysarkar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://github-stats-alpha.vercel.app/api?username=jraysarkar&cc=0d1117&tc=58A6FF&ic=8B949E&bc=0d1117" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jraysarkar&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" />
 
 </div>
 
 ---
 
-### What I Do
+<table>
+<tr>
+<td width="50%" valign="top">
 
-By day, I lead a team of 7 engineers at **Whizhack Technologies** — building cybersecurity products and cyber range platforms that protect organizations at scale. By night, I architect and ship my own SaaS products.
+### &nbsp; Who I Am
 
-I don't just manage software — I build it. From the database schema to the deployment pipeline, I've done every layer.
+I don't pick between **building** and **leading** — I do both.
 
----
+At **Whizhack Technologies**, I lead a team of 7 engineers shipping cybersecurity products and cyber range platforms. After hours, I architect and launch my own SaaS products as a solopreneur.
 
-### Currently Building
+**Cybersecurity products. Cyber ranges. SaaS platforms. Full-stack apps.** If it can be built, I've probably built it — or I'm about to.
 
-**[Amader Hotel](https://github.com/jraysarkar/homestay-saas)** — A multi-tenant SaaS platform for hotel & homestay management. Each hotel gets its own branded website, booking engine, and admin portal under a single codebase.
+</td>
+<td width="50%" valign="top">
 
-`Next.js 16` `PostgreSQL` `Prisma 7` `NextAuth` `Tailwind CSS` `Multi-tenant Architecture`
+### &nbsp; Currently Shipping
 
----
+<a href="https://github.com/jraysarkar/homestay-saas">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jraysarkar&repo=homestay-saas&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="100%" />
+</a>
 
-### What I've Built & Led
+Multi-tenant SaaS for hotel management — branded websites, booking engines, admin portals. Each hotel gets its own subdomain.
 
-| Domain | What |
-|--------|------|
-| **Cybersecurity Products** | Enterprise-grade security platforms with real-time threat detection |
-| **Cyber Range** | Training environments for security teams — attack simulation, defense drills |
-| **SaaS Applications** | Multi-tenant platforms with subdomain routing, RBAC, billing |
-| **Full-Stack Web Apps** | React, Next.js, Django — from MVP to production |
-| **Mobile Applications** | Cross-platform apps for logistics and operations |
+`Next.js 16` `PostgreSQL` `Prisma 7` `Multi-tenant`
 
----
-
-### Tech I Work With
-
-```
-Frontend        Next.js  ·  React  ·  TypeScript  ·  Tailwind CSS
-Backend         Node.js  ·  Python  ·  Django  ·  Express  ·  NestJS
-Database        PostgreSQL  ·  MongoDB  ·  Redis  ·  Firebase
-Infrastructure  AWS  ·  Docker  ·  Nginx  ·  Linux  ·  CI/CD
-Security        Penetration Testing  ·  SIEM  ·  Threat Intel  ·  SOC
-Architecture    Multi-tenancy  ·  Microservices  ·  Event-Driven  ·  REST/GraphQL
-```
-
----
-
-### How I Think
-
-- **Ship first, optimize later.** A working product beats a perfect architecture every time.
-- **Build what you'd pay for.** Every SaaS I build solves a problem I've felt firsthand.
-- **Lead by building.** I don't ask my team to do anything I can't do myself.
-- **Security isn't a feature — it's the foundation.** Years in cybersecurity shaped how I design every system.
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-*"The best way to predict the future is to build it."*
+### Tech Arsenal
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,python,django,express&theme=dark" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase,docker,aws,linux,nginx&theme=dark" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,prisma,vercel,cloudflare&theme=dark" />
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+<br/>
+
+**Cybersecurity**
+
+Enterprise threat detection, SIEM integration, SOC platforms, vulnerability assessment
+
+<br/>
+
+</td>
+<td width="33%" align="center">
+
+<br/>
+
+**Cyber Range**
+
+Attack simulation, defense training environments, red/blue team exercises
+
+<br/>
+
+</td>
+<td width="33%" align="center">
+
+<br/>
+
+**SaaS Products**
+
+Multi-tenant architecture, subdomain routing, RBAC, billing, white-label
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=5000&color=8B949E&center=true&vCenter=true&repeat=true&width=500&height=20&lines=%22Ship+first.+Optimize+later.+Perfection+is+the+enemy+of+done.%22" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=jraysarkar&color=58A6FF&style=flat-square&label=Profile+Views" />
+
+<br/><br/>
 
 </div>
