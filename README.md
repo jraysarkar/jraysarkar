@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Engineering+Leader+%7C+SaaS+Builder+%7C+Solopreneur;From+Cybersecurity+to+SaaS+%E2%80%94+I+Build+It+All" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=435&height=45&lines=SaaS+Builder.;Engineering+Leader.;Solopreneur.;Cybersecurity+Expert." alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Software+Development+Manager+%40+Whizhack+Technologies;Leading+7+engineers+across+cybersecurity+%26+SaaS;Building+products+from+zero+to+production" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=14&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&repeat=true&width=450&height=25&lines=Dev+Manager+%40+Whizhack+Technologies+%7C+Team+of+7;Cyber+Range+%C2%B7+Security+Products+%C2%B7+SaaS+Platforms;If+it+can+be+built%2C+I've+probably+built+it." alt="Subtitle" />
 
 <br/><br/>
 
@@ -38,13 +38,17 @@ At **Whizhack Technologies**, I lead a team of 7 engineers shipping cybersecurit
 
 ### &nbsp; Currently Shipping
 
-<a href="https://github.com/jraysarkar/homestay-saas">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jraysarkar&repo=homestay-saas&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="100%" />
-</a>
+**[Amader Hotel](https://github.com/jraysarkar/homestay-saas)** — Multi-tenant SaaS for hotel & homestay management.
 
-Multi-tenant SaaS for hotel management — branded websites, booking engines, admin portals. Each hotel gets its own subdomain.
+Each hotel gets its own branded website, booking engine, and admin portal — all under one codebase with subdomain routing.
 
-`Next.js 16` `PostgreSQL` `Prisma 7` `Multi-tenant`
+&nbsp;
+
+![Next.js](https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=next.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma_7-2D3748?style=flat-square&logo=prisma)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </td>
 </tr>
@@ -112,7 +116,7 @@ Multi-tenant architecture, subdomain routing, RBAC, billing, white-label
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=5000&color=8B949E&center=true&vCenter=true&repeat=true&width=500&height=20&lines=%22Ship+first.+Optimize+later.+Perfection+is+the+enemy+of+done.%22" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=3000&pause=5000&color=8B949E&center=true&vCenter=true&repeat=true&width=420&height=20&lines=%22Ship+first.+Optimize+later.+Perfection+kills+products.%22" />
 
 <br/><br/>
 
