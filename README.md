@@ -5,10 +5,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%E2%9A%A1+Cybersecurity+Products;%F0%9F%8E%AF+Cyber+Range+Platforms;%F0%9F%9A%80+Multi-Tenant+SaaS;%F0%9F%92%BC+Leading+a+Team+of+7+Engineers;%F0%9F%94%A5+Building+in+Public" alt="Typing SVG" />
 
 <br/>
-
+<a href="https://linkedin.com/in/jaydeep-roy-sarkar-7aa95478"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="https://linkedin.com/in/jraysarkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="https://github.com/jraysarkar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
-<a href="mailto:jraysarkar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:jraysarkarbusiness@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
